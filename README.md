@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name Oscar Sanchez from Waukegan Illinois. I always knew I wanted a future in technology but didn't really know where I fit in. Technology is a very important part of all of our lives, with us having to rely on phones and computers for a lot of daily tasks, but one piece of tech I have always been drawn to are video games. To me video games have always been there for me as a way to relax/wind down and I would like to help in its development to be able to recreate this experience for others. 
+After graduating from Waukegan High School, I decided to continue my education at the College of Lake County where I took my general education classes, learned the basics of Java, and obtained an Associates Degree of Science.
+I have transferred and am now studying computer science at The University of Illinois Chicago where I am currently learning  about C and C++.
+My plans for the future include learning C# and learning about game engines such as Unity. I'm also currently looking for internships.
 <!--
 **osanchez835/osanchez835** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
