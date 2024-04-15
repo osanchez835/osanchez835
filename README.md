@@ -4,6 +4,7 @@ My name Oscar Sanchez from Waukegan Illinois. I always knew I wanted a future in
 After graduating from Waukegan High School, I decided to continue my education at the College of Lake County where I took my general education classes, learned the basics of Java, and obtained an Associates Degree of Science.
 I have transferred and am now studying computer science at The University of Illinois Chicago where I am currently learning  about C and C++.
 My plans for the future include learning C# and learning about game engines such as Unity. I'm also currently looking for internships.
+Feel free to contact me at oscarsanchez835@gmail.com or www.linkedin.com/in/osanchez2
 <!--
 **osanchez835/osanchez835** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
